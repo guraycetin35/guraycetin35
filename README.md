@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 - 💬 Ask me about **Geospatial, Deep Learning and Machine Learning for Geographical Data, Remote Sensing, HD Map Creation**
 
 
-<div> <a href="https://github.com/guray" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<div> <a href="https://github.com/guraycetin35" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
